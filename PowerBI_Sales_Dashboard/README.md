@@ -1,11 +1,4 @@
-\## 🔗 Live Dashboard
-
-
-
-\[!\[View Dashboard](https://img.shields.io/badge/View%20Dashboard-Power%20BI-blue?style=for-the-badge\&logo=powerbi)](https://app.powerbi.com/links/8YByW6GYKh?ctid=7b410031-6333-4080-9e61-afdbd57b3bd9\&pbi\_source=linkShare)
-
-
-
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Power%20BI-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/links/8YByW6GYKh?ctid=7b410031-6333-4080-9e61-afdbd57b3bd9&pbi_source=linkShare)
 
 
 \# Power BI Analytics Suite – Liberty Investments
